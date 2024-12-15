@@ -1,0 +1,39 @@
+.contenedor-formulario {
+    width: 50%;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #b83564;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 390px;
+}
+
+.formulario-producto {
+    margin: 0 auto;
+}
+
+label {
+    display: block;
+    text-align: left;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+input, select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: cornflowerblue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-left: 145px;
+}

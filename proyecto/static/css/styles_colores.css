@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #b83564;
+    line-height: 1.6;
+}
+.footer-custom {
+    background-color: #ff6a5a;
+    padding: 20px;
+    text-align: center;
+}
